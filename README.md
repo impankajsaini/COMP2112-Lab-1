@@ -13,4 +13,4 @@ const hotels = [
 ```
 
 Output:
-![screenshot of output](C:\Users\impan\OneDrive\Pictures\Capture.PNG)
+![screenshot of output](D:\Capture.PNG)
