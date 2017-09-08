@@ -10,7 +10,7 @@ const hotels = [
       { 'city': 'Scarborough', 'hotelname': 'Sheraton', 'capacity': '353513'}   
        ]
        console.table(hotels);
-```javascrirpt
+```
 
 Output:
-![screenshot of output](C:\Users\impan\OneDrive\Pictures\capture.png)
+![screenshot of output](C:\Users\impan\OneDrive\Pictures\Capture.PNG)
